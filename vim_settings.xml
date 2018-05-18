@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/git/scalaSnippet/project/build.properties" timestamp="1526652085515" />
+      <file name="E:/git/spark/core/src/main/scala/org/apache/spark/metrics/MetricsSystem.scala" timestamp="1526686206855" />
     </filemarks>
     <jumps />
     <registers />
@@ -11,7 +11,16 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>

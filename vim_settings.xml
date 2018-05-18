@@ -2,7 +2,9 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="E:/git/scalaSnippet/project/build.properties" timestamp="1526596074975" />
+    </filemarks>
     <jumps />
     <registers />
     <search>

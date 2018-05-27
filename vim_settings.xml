@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1526765525141">
@@ -12,7 +12,7 @@
       <file name="/Dummy.scala" timestamp="1526771997789">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/git/spark/examples/src/main/scala/org/apache/spark/examples/GroupByTest.scala" timestamp="1527417834446">
+      <file name="E:/git/spark/examples/src/main/scala/org/apache/spark/examples/GroupByTest.scala" timestamp="1527419071116">
         <mark key="[" line="39" column="89" />
       </file>
       <file name="/fragment.java" timestamp="1526769000971">
